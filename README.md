@@ -1,0 +1,1 @@
+This repository contains a series of practice projects designed to enhance programming skills in TypeScript and Node.js. Each project introduces different concepts and functionalities, providing a comprehensive learning experience.
